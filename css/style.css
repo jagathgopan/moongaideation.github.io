@@ -862,7 +862,6 @@ ul.about-list {
 ul.about-list li {
     margin: 1em 0;
     color: #fff;
-    text-transform: capitalize;
     letter-spacing: 1px;
 }
 
