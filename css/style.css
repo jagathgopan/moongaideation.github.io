@@ -390,7 +390,7 @@ span.nav-icon {
 }
 
 nav.navbar.navbar-default.navbar-fixed-top {
-    background: #5f9ea0;
+    background: rgba(88, 95, 90, 0.62);
     border: none;
     padding: 1em 0;
     -webkit-transition: .5s all;
@@ -453,7 +453,7 @@ li.first-nav {
 }
 
 nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
-    background: #34c663;
+    background: rgba(88, 95, 90, 0.62);
 }
 
 nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse h1 a.navbar-brand {
@@ -544,7 +544,7 @@ ul.dropdown-menu:hover a.s-menu {
 /*-- banner-text --*/
 
 .banner-bg-agileits {
-    background: url(../images/w3.jpg) no-repeat center;
+    background: url(../images/w4.jpg) no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
